@@ -6,20 +6,17 @@
 
 公开研究、可复用工具与真实工作流，连接 AI 技术、个人能力和商业实践。
 
-## 第一个项目 · [Anti-Anthropic](https://github.com/AndyAwake/Anti-Anthropic)
+## 三个开源项目
 
-《反制 Anthropic：AI 技术主权、数据保护与商业竞争保姆级攻略》
+学习优秀 AI 的能力，把数据和选择权掌握在自己手中。
 
-**V2.0 · 2026 年 11 月 14 日**
+| 项目 | 适合谁 | 从这里开始 |
+| --- | --- | --- |
+| [Anti-Anthropic](https://github.com/AndyAwake/Anti-Anthropic) | 想了解背景、立场和全球影响的人 | [宣言](https://github.com/AndyAwake/Anti-Anthropic/blob/main/POSITION.md) · [事实攻略](https://github.com/AndyAwake/Anti-Anthropic/blob/main/GUIDE.md) |
+| [Out-Anthropic](https://github.com/AndyAwake/Out-Anthropic) | 正在或曾经使用 Claude 的人 | [备份、迁出与恢复教程](https://github.com/AndyAwake/Out-Anthropic/blob/main/GUIDE.md) |
+| [Free-Anthropic](https://github.com/AndyAwake/Free-Anthropic) | 想找平替、继续工作的人 | [模型、工具与实际工作流](https://github.com/AndyAwake/Free-Anthropic) |
 
-技术上虚心学习，商业上建立替代，数据上实行对等控制。解释原因，也把每一步怎么做、怎么检查写清楚。
-
-- [阅读保姆级完整攻略](https://github.com/AndyAwake/Anti-Anthropic/blob/main/GUIDE.md)
-- [美国政治资金、游说与组织运作](https://github.com/AndyAwake/Anti-Anthropic/blob/main/POLITICS.md)
-- [网站与出版物控制教程](https://github.com/AndyAwake/Anti-Anthropic/blob/main/DATA-CONTROL.md)
-- [30 天行动清单](https://github.com/AndyAwake/Anti-Anthropic/blob/main/checklist.md)
-- [资料来源](https://github.com/AndyAwake/Anti-Anthropic/blob/main/sources.md)
-- [下载工具包 ZIP](https://github.com/AndyAwake/Anti-Anthropic/archive/refs/heads/main.zip)
+我们尊重每个人使用 Claude 的自由，也公开反对其具体政策；鼓励把优秀经验转化为自己的能力，并始终保有备份和替代。
 
 ## 星觉科技 · 产品与服务
 
