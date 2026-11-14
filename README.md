@@ -12,9 +12,9 @@
 
 | 项目 | 适合谁 | 从这里开始 |
 | --- | --- | --- |
-| [Anti-Anthropic](https://github.com/AndyAwake/Anti-Anthropic) | 想了解背景、立场和全球影响的人 | [宣言](https://github.com/AndyAwake/Anti-Anthropic/blob/main/POSITION.md) · [事实攻略](https://github.com/AndyAwake/Anti-Anthropic/blob/main/GUIDE.md) |
-| [Out-Anthropic](https://github.com/AndyAwake/Out-Anthropic) | 正在或曾经使用 Claude 的人 | [备份、迁出与恢复教程](https://github.com/AndyAwake/Out-Anthropic/blob/main/GUIDE.md) |
-| [Free-Anthropic](https://github.com/AndyAwake/Free-Anthropic) | 想找平替、继续工作的人 | [模型、工具与实际工作流](https://github.com/AndyAwake/Free-Anthropic) |
+| [Anti-Anthropic](https://github.com/AndyAwake/Anti-Anthropic) | 想了解背景、立场和全球影响的人 | [交互网站](https://andyawake.github.io/Anti-Anthropic/) · [完整 PDF](https://andyawake.github.io/Anti-Anthropic/assets/guide.pdf) · [宣言](https://github.com/AndyAwake/Anti-Anthropic/blob/main/POSITION.md) · [事实攻略](https://github.com/AndyAwake/Anti-Anthropic/blob/main/GUIDE.md) |
+| [Out-Anthropic](https://github.com/AndyAwake/Out-Anthropic) | 正在或曾经使用 Claude 的人 | [交互网站](https://andyawake.github.io/Out-Anthropic/) · [完整 PDF](https://andyawake.github.io/Out-Anthropic/assets/guide.pdf) · [备份、迁出与恢复教程](https://github.com/AndyAwake/Out-Anthropic/blob/main/GUIDE.md) |
+| [Free-Anthropic](https://github.com/AndyAwake/Free-Anthropic) | 想找平替、继续工作的人 | [交互网站](https://andyawake.github.io/Free-Anthropic/) · [完整 PDF](https://andyawake.github.io/Free-Anthropic/assets/guide.pdf) · [模型、工具与实际工作流](https://github.com/AndyAwake/Free-Anthropic) |
 
 我们尊重每个人使用 Claude 的自由，也公开反对其具体政策；鼓励把优秀经验转化为自己的能力，并始终保有备份和替代。
 
