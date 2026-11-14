@@ -20,16 +20,15 @@
 
 ## 星觉科技 · 产品与服务
 
-| 产品与知识资产 | 入口 |
-| --- | --- |
-| IPClaw · 专家 Agent 网络 | [体验](https://metaver.vip/ipclaw) |
-| MDskill · Markdown 编辑器 | [产品介绍](https://metaver.vip/products) |
-| ChiefMusic · AI 音乐播放器 | [产品介绍](https://metaver.vip/products) |
-| 座右铭 · 每日灵感工具 | [产品介绍](https://metaver.vip/products) |
-| 醒觉知识库 · AI、成长、IP 与商业实践 | [进入知识库](https://kb.metaver.vip/s/19ea264c-d09c-435b-9d0d-a9d0cd1c9e7c) |
+四件事：帮你把能力换成结果，把工具交到你手上，把人和人连起来。
 
-高管陪跑、求职陪跑、职场人副业陪跑、个人 AI + IP 陪跑、企业 AI + IP 获客：[了解服务](https://www.a6no1.cn/services)。
+| 产品与服务 | 说明 | 入口 |
+| --- | --- | --- |
+| 主要服务 | 高管陪跑、求职陪跑、职场人副业陪跑、个人 AI + IP 陪跑、企业 AI + IP 获客 | [了解服务](https://www.a6no1.cn/services) |
+| IPClaw | 专家 Agent 网络 | [体验](https://metaver.vip/ipclaw) |
+| 星觉社 · 醒觉知识库 | AI 醒觉社（AI 禅院）社群，与醒觉知识库放在一起，一起做小、做深、做久 | [了解醒觉社](https://www.a6no1.cn/awake) · [进入知识库](https://kb.metaver.vip/s/19ea264c-d09c-435b-9d0d-a9d0cd1c9e7c) |
+| 安迪的开源 AI | 三个 Anthropic 开源项目，以及更多可复用的开源作品 | [本站项目](https://github.com/AndyAwake) · [更多开源](https://github.com/AIPMAndy) |
 
-[Andy 官网](https://metaver.vip) · [星觉科技服务站](https://www.a6no1.cn/services) · [醒觉社](https://www.a6no1.cn/awake) · [更多开源作品](https://github.com/AIPMAndy)
+[Andy 官网](https://metaver.vip) · [星觉科技官网](https://www.a6no1.cn)
 
 微信：**AIPMAndy**，欢迎说明实际需求。
