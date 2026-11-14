@@ -26,8 +26,8 @@
 | --- | --- | --- |
 | 主要服务 | 高管陪跑、求职陪跑、职场人副业陪跑、个人 AI + IP 陪跑、企业 AI + IP 获客 | [了解服务](https://www.a6no1.cn/services) |
 | IPClaw | 专家 Agent 网络 | [体验](https://metaver.vip/ipclaw) |
-| 星觉社 · 醒觉知识库 | AI 醒觉社（AI 禅院）社群，与醒觉知识库放在一起，一起做小、做深、做久 | [了解醒觉社](https://www.a6no1.cn/awake) · [进入知识库](https://kb.metaver.vip/s/19ea264c-d09c-435b-9d0d-a9d0cd1c9e7c) |
-| 安迪的开源 AI | 三个 Anthropic 开源项目，以及更多可复用的开源作品 | [本站项目](https://github.com/AndyAwake) · [更多开源](https://github.com/AIPMAndy) |
+| 醒觉社 · 醒觉知识库 | AI 醒觉社（AI 禅院）社群，与醒觉知识库放在一起，一起做小、做深、做久 | [了解醒觉社](https://www.a6no1.cn/awake) · [进入知识库](https://kb.metaver.vip/s/19ea264c-d09c-435b-9d0d-a9d0cd1c9e7c) |
+| AI酋长 Andy 的开源 | 三个 Anthropic 开源项目，以及更多可复用的开源作品 | [更多开源](https://github.com/AIPMAndy) · [本站项目](https://github.com/AndyAwake) |
 
 [Andy 官网](https://metaver.vip) · [星觉科技官网](https://www.a6no1.cn)
 
