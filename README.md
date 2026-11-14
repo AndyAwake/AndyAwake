@@ -2,24 +2,37 @@
 
 ### 星觉科技 · 开源项目站
 
-AI 技术主权、数据保护与可复用开源工具。
+**用 AI 帮助企业增长，助力个人成长。**
 
-## 第一个项目
+公开研究、可复用工具与真实工作流，连接 AI 技术、个人能力和商业实践。
 
-### [Anti-Anthropic](https://github.com/AndyAwake/Anti-Anthropic)
+## 第一个项目 · [Anti-Anthropic](https://github.com/AndyAwake/Anti-Anthropic)
 
 《反制 Anthropic：AI 技术主权、数据保护与商业竞争保姆级攻略》
 
-研究版本 V1.0 · 2026 年 11 月 14 日
+**V2.0 · 2026 年 11 月 14 日**
 
-核心战略：技术上学习 Anthropic，商业上减少依赖，数据上守住边界，政策上倡导对等与公平。
+技术上虚心学习，商业上建立替代，数据上实行对等控制。解释原因，也把每一步怎么做、怎么检查写清楚。
 
-- [阅读完整攻略](https://github.com/AndyAwake/Anti-Anthropic/blob/main/GUIDE.md)
-- [30 天企业执行清单](https://github.com/AndyAwake/Anti-Anthropic/blob/main/checklist.md)
-- [训练抓取控制模板](https://github.com/AndyAwake/Anti-Anthropic/blob/main/robots-training-only.txt)
-- [训练、搜索与用户请求抓取控制模板](https://github.com/AndyAwake/Anti-Anthropic/blob/main/robots-all-crawlers.txt)
-- [下载开源工具包](https://github.com/AndyAwake/Anti-Anthropic/archive/refs/heads/main.zip)
+- [阅读保姆级完整攻略](https://github.com/AndyAwake/Anti-Anthropic/blob/main/GUIDE.md)
+- [美国政治资金、游说与组织运作](https://github.com/AndyAwake/Anti-Anthropic/blob/main/POLITICS.md)
+- [网站与出版物控制教程](https://github.com/AndyAwake/Anti-Anthropic/blob/main/DATA-CONTROL.md)
+- [30 天行动清单](https://github.com/AndyAwake/Anti-Anthropic/blob/main/checklist.md)
+- [资料来源](https://github.com/AndyAwake/Anti-Anthropic/blob/main/sources.md)
+- [下载工具包 ZIP](https://github.com/AndyAwake/Anti-Anthropic/archive/refs/heads/main.zip)
 
-有自主数据、有替代模型、有公开证据、有开源工具、有稳定获客能力。
+## 星觉科技 · 产品与服务
 
-让技术能力和商业实力成为最有说服力的回应。
+| 产品与知识资产 | 入口 |
+| --- | --- |
+| IPClaw · 专家 Agent 网络 | [体验](https://metaver.vip/ipclaw) |
+| MDskill · Markdown 编辑器 | [产品介绍](https://metaver.vip/products) |
+| ChiefMusic · AI 音乐播放器 | [产品介绍](https://metaver.vip/products) |
+| 座右铭 · 每日灵感工具 | [产品介绍](https://metaver.vip/products) |
+| 醒觉知识库 · AI、成长、IP 与商业实践 | [进入知识库](https://kb.metaver.vip/s/19ea264c-d09c-435b-9d0d-a9d0cd1c9e7c) |
+
+高管陪跑、求职陪跑、职场人副业陪跑、个人 AI + IP 陪跑、企业 AI + IP 获客：[了解服务](https://www.a6no1.cn/services)。
+
+[Andy 官网](https://metaver.vip) · [星觉科技服务站](https://www.a6no1.cn/services) · [醒觉社](https://www.a6no1.cn/awake) · [更多开源作品](https://github.com/AIPMAndy)
+
+微信：**AIPMAndy**，欢迎说明实际需求。
